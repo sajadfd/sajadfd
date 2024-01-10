@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Visitor Count](https://profile-counter.glitch.me/sajadfd/count.svg)
+![](https://komarev.com/ghpvc/?username=sajadfd&color=green)
